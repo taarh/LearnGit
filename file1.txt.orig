@@ -1,0 +1,10 @@
+change 1
+change 2
+change 3
+
+master 1
+<<<<<<< HEAD
+change 4
+=======
+master 2
+>>>>>>> 7c7cf0a3c0e6d543b64df0431e4384ec1027c7ce
